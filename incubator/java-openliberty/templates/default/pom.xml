@@ -95,6 +95,7 @@
             <plugin>
                 <groupId>io.openliberty.tools</groupId>
                 <artifactId>liberty-maven-plugin</artifactId>
+                <version>3.3-SNAPSHOT</version>
                 <configuration>
                     <stripVersion>true</stripVersion>
                     <serverStartTimeout>120</serverStartTimeout>
